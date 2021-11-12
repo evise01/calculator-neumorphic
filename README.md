@@ -1,3 +1,9 @@
+# Introduction
+
+<img src="https://i.ibb.co/rQxdc0P/Calculator.png" width="300px"/>
+
+This is a Neomorphic calculator that does the simple math operations with just two numbers.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
