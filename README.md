@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/rQxdc0P/Calculator.png" width="300px"/>
 
-This is a Neomorphic calculator that does the simple math operations with just two numbers.
+This is a Neumorphic calculator that does the simple math operations with just two numbers.
 You can also switch between dark and light mode.
 
 # Getting Started with Create React App
